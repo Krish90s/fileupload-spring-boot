@@ -10,6 +10,6 @@ public class CloudinaryConfiguration {
 
 	@Bean
 	public Cloudinary cloudinary() {
-		return new Cloudinary("cloudinary://167232775669322:3YYbteBCvEm53cecaC4tZI6EG5U@djw9idhnp");
+		return new Cloudinary("");
 	}
 }
