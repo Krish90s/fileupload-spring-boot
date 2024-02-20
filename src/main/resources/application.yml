@@ -1,0 +1,9 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://90s_krishnan:n9FuPVnfiPD0Dw3W@cluster0.a24ea.mongodb.net
+      database: fileuploads
+
+
+
